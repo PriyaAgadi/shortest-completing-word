@@ -9,6 +9,7 @@ public:
                 if(licensePlate[i] < 91)
                     license += licensePlate[i] + 32;
                 else
+
                     license += licensePlate[i];
             }
 
